@@ -1,0 +1,1 @@
+if you add something wrong and u want delete this commit u can use git revert comand. git revert create a new commit, but delete that commit u have chose 
