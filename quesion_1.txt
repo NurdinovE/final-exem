@@ -1,0 +1,1 @@
+for example i want to know who do the last changes, i  can use git blame "fileName" commend. And the terminal will show the commits with changes and the time when was it.
